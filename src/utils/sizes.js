@@ -1,0 +1,19 @@
+export const fontSizes = {
+    sm:8,
+    md:16,
+    lg:23,
+    xl:32,
+    xxl:40,
+    xxxl:80,
+    xxxxl:160,
+}
+
+
+export const spacing = {
+    sm:8,
+    md:16,
+    lg:22,
+    xl:32,
+    xxl:40,
+    xxxxl:80,
+}
